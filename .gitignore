@@ -9,6 +9,8 @@
 /build/
 /bin/
 /dist/
+snapp
+main
 
 # Temporary files
 *.log
